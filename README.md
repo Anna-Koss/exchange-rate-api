@@ -10,8 +10,8 @@ Currency pairs are currently available:
 
 <h3> To run the application</h3>
 <ul>
-<li> to clone the project write in WSL console: </li>
-<pre>           <code> git clone {link} </code></pre> 
+<li> to clone the project write in WSL console:  </li>
+<pre>           <code> git clone https://github.com/Anna-Koss/exchange-rate-api.git </code></pre> 
 <li> run the docker on your computer</li>
 <li> to run container write in WSL console:</li> 
  <pre>           <code> docker-compose up -d </code></pre>
